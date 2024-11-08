@@ -68,7 +68,7 @@ Whether you're interested in collaborating on a project or simply want to connec
 
 ### 📈 **My GitHub Stats**
 
-![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ResearcherAhmadi&show_icons=true&theme=radical)
+![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&theme=radical)
 
 ---
 
