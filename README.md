@@ -18,7 +18,7 @@ I'm always exploring new techniques to drive innovation in healthcare technology
 
 Here’s a look at some of my notable projects that reflect my strengths in data science, machine learning, and healthcare research:
 
-| Project | Description |
+| Projects | Description |
 | ------- | ----------- |
 | **Breast Cancer Predictor (BCP)** | High-accuracy model for breast cancer diagnosis, reaching 99.12% accuracy. |
 | **Anomaly Detection in Time Series** | Time series anomaly detection with advanced feature engineering. |
@@ -54,7 +54,7 @@ I’m always eager to connect with others on topics including:
 
 I'm open to collaborations, discussions, and new opportunities!  
 📧 Email: hossein@example.com  
-💼 LinkedIn: [Hossein Ahmadi](https://linkedin.com/in/hosseinahmadi)  
+💼 LinkedIn: [Hossein Ahmadi](https://www.linkedin.com/in/hossein-ahmadii/)  
 🌐 Kaggle: [Hossein on Kaggle](https://www.kaggle.com/ahmadihossein)
 
 ---
