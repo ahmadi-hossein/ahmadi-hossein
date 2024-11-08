@@ -73,9 +73,8 @@ Whether you're interested in collaborating on a project or simply want to connec
 ---
 
 **🔗 Useful Links**  
-- [Portfolio](#)  
-- [Blog](#)  
-- [Resume](#)  
+- [Blog](https://www.linkedin.com/groups/8165318/)  
+- [Resume](https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg)  
 
 ---
 
