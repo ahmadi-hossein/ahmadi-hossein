@@ -8,7 +8,7 @@
 
 ### 🚀 **Welcome to My GitHub Profile!**
 
-I'm a passionate Data Scientist with over two years of expertise in **Machine Learning, Deep Learning, and NLP**, specifically within **healthcare analytics and predictive modeling**. My commitment to creating impactful, real-world applications has led me to specialize in **breast cancer prediction**, achieving breakthrough results on public datasets with accuracy scores reaching **99%**.
+I'm a passionate Data Scientist with over two years of expertise in **Machine Learning, Deep Learning, and NLP**, specifically within **healthcare analytics and predictive modeling**. My commitment to creating impactful, real-world applications has led me to specialize in **breast cancer prediction**, achieving breakthrough results on public and big datasets with accuracy scores reaching **99%**.
 
 I'm always exploring new techniques to drive innovation in healthcare technology and am dedicated to pushing the boundaries in **data-driven solutions**.
 
