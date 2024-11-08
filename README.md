@@ -53,7 +53,6 @@ I’m always eager to connect with others on topics including:
 ### 📫 **Get in Touch**
 
 I'm open to collaborations, discussions, and new opportunities!  
-📧 Email: hossein@example.com  
 💼 LinkedIn: [Hossein Ahmadi](https://www.linkedin.com/in/hossein-ahmadii/)  
 🌐 Kaggle: [Hossein on Kaggle](https://www.kaggle.com/ahmadihossein)
 
