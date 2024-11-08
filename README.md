@@ -1,4 +1,4 @@
-![Image](1696536226256-removebg-preview-Photoroom.png) # 👋 Hi there, I'm Hossein Ahmadi
+👋 Hi there, I'm Hossein Ahmadi
 
 👨‍💻 **Data Scientist | Advanced Machine Learning | Kaggle Expert**  
 🌍 **Focused on Healthcare & Cancer Research**  
