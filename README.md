@@ -23,11 +23,11 @@ Here’s a look at some of my notable projects that reflect my strengths in data
 
 | Projects | Description |
 | ------- | ----------- |
-| **Breast Cancer Predictor (BCP)** | High-accuracy model for breast cancer diagnosis, reaching 99.12% accuracy. |
-| **Anomaly Detection in Time Series** | Time series anomaly detection with advanced feature engineering. |
-| **EcoOpt** | Optimization model focused on energy efficiency and environmental sustainability. |
-| **Passive Learning in Time Series** | Forecasting model leveraging passive learning for precise predictions. |
-| **Diabetes Prediction** | Comparison of ML algorithms for reliable diabetes diagnosis. |
+| <img src="Robust Breast Cancer Predictor (BCP).png" width="30"> **Breast Cancer Predictor (BCP)** | High-accuracy model for breast cancer diagnosis, reaching 99.12% accuracy. |
+| <img src="Anomaly detection in time series.png" width="30"> **Anomaly Detection in Time Series** | Time series anomaly detection with advanced feature engineering. |
+| <img src="EcoOpt.png" width="30"> **EcoOpt** | Optimization model focused on energy efficiency and environmental sustainability. |
+| <img src="Passive Learning.png" width="30"> **Passive Learning in Time Series** | Forecasting model leveraging passive learning for precise predictions. |
+| <img src="Diabetes Prediction.png" width="30"> **Diabetes Prediction** | Comparison of ML algorithms for reliable diabetes diagnosis. |
 
 Check out my [Kaggle profile](https://www.kaggle.com/ahmadihossein) for more insights into my projects and achievements! 🌟
 
