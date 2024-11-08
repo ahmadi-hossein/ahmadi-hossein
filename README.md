@@ -54,7 +54,7 @@ I’m always eager to connect with others on topics including:
 
 I'm open to collaborations, discussions, and new opportunities!  
 💼 LinkedIn: [Hossein Ahmadi](https://www.linkedin.com/in/hossein-ahmadii/)  
-🌐 Kaggle: [Hossein on Kaggle](https://www.kaggle.com/ahmadihossein)
+🌐 Kaggle: [Hossein Ahmadi](https://www.kaggle.com/ahmadihossein)
 
 ---
 
