@@ -1,6 +1,6 @@
 👋 Hi there, I'm Hossein Ahmadi
 
-👨‍💻 **Data Scientist | Advanced Machine Learning | Kaggle Expert**  
+👨‍💻 **Data Scientist | Advanced Machine Learning | Predictive Modeling | SQL Expert**  
 🌍 **Focused on Healthcare & Cancer Research**  
 📍 **Tehran, Iran**
 
