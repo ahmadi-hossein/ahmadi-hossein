@@ -1,6 +1,6 @@
 👋 Hi there, I'm Hossein Ahmadi
 
-👨‍💻 **Data Scientist | Healthcare AI | Skilled in ML, DL, & Medical Imaging for Diagnosis, Prognosis, and Treatment Optimization**  
+👨‍💻 **Data Scientist | Healthcare AI | Skilled in ML, DL, & Medical Imaging for Diagnosis, Prognosis, and Treatment**  
 🌍 **Focused on Healthcare & Cancer Research**  
 📍 **Tehran, Iran**
 
