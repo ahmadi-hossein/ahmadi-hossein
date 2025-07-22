@@ -30,6 +30,7 @@ Here’s a look at some of my notable projects that reflect my strengths in data
 | <img src="EcoOpt.png" width="30"> **EcoOpt** | Optimization model focused on energy efficiency and environmental sustainability. |
 | <img src="Passive Learning.png" width="30"> **Passive Learning in Time Series** | Forecasting model leveraging passive learning for precise predictions. |
 | <img src="Diabetes Prediction.png" width="30"> **Diabetes Prediction** | Comparison of ML algorithms for reliable diabetes diagnosis. |
+| <img src="download.png" width="30"> **Kidney Stone Detection** | Kidney Stone Detection AI – Classification & Object Detection. |
 
 Check out my [Kaggle profile](https://www.kaggle.com/ahmadihossein) for more insights into my projects and achievements! 🌟
 
