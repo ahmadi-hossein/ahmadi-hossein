@@ -31,6 +31,8 @@ Here’s a look at some of my notable projects that reflect my strengths in data
 | <img src="Passive Learning.png" width="30"> **Passive Learning in Time Series** | Forecasting model leveraging passive learning for precise predictions. |
 | <img src="Diabetes Prediction.png" width="30"> **Diabetes Prediction** | Comparison of ML algorithms for reliable diabetes diagnosis. |
 | <img src="download.png" width="30"> **Kidney Stone Detection** | YOLOv8-powered AI for accurate kidney stone classification & localization (mAP@0.5 ≈ 99.5%). |
+| <img src="Medical Insurance Cost Predictor.jpg" width="30"> **Medical Insurance Cost Predictor** | Ensemble regression model with R² ≈ 0.997 for premium cost estimation. |
+
 
 Check out my [Kaggle profile](https://www.kaggle.com/ahmadihossein) for more insights into my projects and achievements! 🌟
 
