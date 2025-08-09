@@ -205,8 +205,33 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## 📫 Get in Touch
 
-**LinkedIn:** [Hossein Ahmadi](https://www.linkedin.com/in/hossein-ahmadii/)  
-**Kaggle:** [ahmadihossein](https://www.kaggle.com/ahmadihossein)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hossein-ahmadii/" target="_blank">
+    <img alt="LinkedIn — Hossein Ahmadi"
+         src="https://img.shields.io/badge/LinkedIn-Hossein%20Ahmadi-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.kaggle.com/ahmadihossein" target="_blank">
+    <img alt="Kaggle — ahmadihossein"
+         src="https://img.shields.io/badge/Kaggle-ahmadihossein-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <sub>DMs welcome for collaborations, code reviews, or brainstorming on Healthcare AI.</sub>
+</p>
+
+<!-- Optional: minimal icon row (lightweight SVGs) -->
+<!--
+<p align="center">
+  <a href="https://www.linkedin.com/in/hossein-ahmadii/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="24" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/ahmadihossein">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" width="24" alt="Kaggle"/>
+  </a>
+</p>
+-->
+
 
 ---
 
