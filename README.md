@@ -180,9 +180,26 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## 💬 Let’s Talk About
 
-- **Data Science & ML** (from problem framing to deployment)  
-- **Healthcare AI** (predictive diagnostics, imaging, model validation)  
-- **Career & Projects** (Kaggle, portfolios, practical roadmaps)
+- **Data Science & ML (idea → production)**
+  - Problem framing & success metrics, strong baselines
+  - Feature engineering, model selection, HPO (**Optuna**)
+  - Evaluation: CV strategy, leakage control, calibration & uncertainty
+  - MLOps: **MLflow**, **Hydra**, **DVC**, CI/CD, **Docker/FastAPI**, monitoring & drift
+
+- **Healthcare AI (predictive diagnostics & imaging)**
+  - Medical imaging pipelines (classification/detection/segmentation), DICOM basics
+  - Clinical metrics: AUROC/PR-AUC, sensitivity/specificity, calibration
+  - Explainability (SHAP, PDP/ICE), bias/fairness, dataset curation & consent
+  - Validation for clinical-like settings, documentation (model cards)
+
+- **Career & Projects (Kaggle, portfolios, roadmaps)**
+  - Project scoping & storytelling; turning notebooks into apps (**Streamlit/FastAPI**)
+  - Portfolio & GitHub README polishing, metrics widgets, pinned repos
+  - Kaggle strategy (EDA → features → CV), reproducibility best practices
+  - Resume/LinkedIn/GitHub alignment, interview prep & take-homes
+
+> Building something in **Healthcare AI** or data-intensive products? Happy to brainstorm, review code, or co-design experiments.
+
 
 ---
 
