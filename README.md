@@ -121,9 +121,60 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## 🌱 Currently Mastering
 
-- **Advanced ML**: ensembles, hyperparameter optimization, model interpretability for clinical settings  
-- **Big Data**: **BigQuery ML** for large-scale modeling & analytics  
-- **Geospatial Analytics**: location intelligence for urban & healthcare insights
+> Focused, outcome-driven learning tracks aligned with Healthcare AI. Kept compact; details are collapsible.
+
+### 1) Advanced ML for Clinical Settings
+- **Ensembles & Robustness:** stacking/blending, **CatBoost/LightGBM/XGBoost**, out-of-fold training, leakage control.
+- **Hyperparameter Optimization:** **Optuna** (TPE, pruning), distributed trials, search-space design.
+- **Calibration & Uncertainty:** Platt/Isotonic, **conformal prediction** (intervals), decision thresholds by clinical cost.
+- **Shift & Monitoring:** drift metrics (PSI/KS), change-point checks, **Evidently** dashboards, error analysis playbooks.
+- **Interpretability:** **SHAP**, PDP/ICE, counterfactuals; model cards & limitation notes.
+- **MLOps Glue:** **MLflow** tracking + **Hydra** configs, **DVC** data versioning, **FastAPI** serving, **Docker** packaging.
+- **Outcome:** safer predictions with audited explainability and production-ready pipelines.
+
+<details>
+<summary>Examples & checklists</summary>
+
+- [ ] Nested CV for small datasets with stratification  
+- [ ] Cost-sensitive thresholds + decision curve analysis  
+- [ ] Confidence/credibility intervals via conformal prediction  
+- [ ] Offline → online parity tests before deploy
+</details>
+
+---
+
+### 2) Big Data & Scalable Analytics
+- **BigQuery ML:** feature views, partition/cluster strategy, ML on SQL (linear/logistic, boosted trees, ARIMA+, XGBoost).
+- **Pipeline Ops:** **dbt** for transformations, **Airflow/Cloud Composer** scheduling, **Feast** (feature store).
+- **Streaming & Batch:** Pub/Sub or Kafka → BigQuery; windowed aggregations; cost/perf tuning.
+- **Analytics & Viz:** Looker Studio dashboards; data quality with Great Expectations (optional).
+- **Outcome:** reproducible, cost-aware pipelines that serve features/models at scale.
+
+<details>
+<summary>Examples & checklists</summary>
+
+- [ ] Train + evaluate in BigQuery ML, register model artifact  
+- [ ] dbt tests (unique/not null/accepted values) for critical dims  
+- [ ] Feature store: online/offline consistency contract
+</details>
+
+---
+
+### 3) Geospatial Analytics for Health & Urban Insights
+- **Core Stack:** **GeoPandas**, **Shapely**, **PySAL**, **PostGIS**, **H3** indexing.
+- **Spatial Methods:** joins & buffers, drive-time isochrones, spatial autocorrelation (Moran’s I), hotspot detection.
+- **Raster/Vector:** `rasterio` & `rio-cogeo` basics; resampling and CRS handling.
+- **Visualization:** **Kepler.gl** / **Folium** interactive maps; tiles & basemaps; choropleths with classification schemes.
+- **Outcome:** location-aware risk models (e.g., access to care, facility placement, screening coverage).
+
+<details>
+<summary>Examples & checklists</summary>
+
+- [ ] Build clinic catchment areas via isochrones & H3 bins  
+- [ ] Demand–supply gap map with spatial smoothing  
+- [ ] Validate CRS & topology; benchmark spatial joins on large tiles
+</details>
+
 
 ---
 
