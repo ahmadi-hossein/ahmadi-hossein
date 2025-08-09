@@ -237,7 +237,24 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## ⚡ A Little More About Me
 
-Curious, practical, and impact-oriented. I enjoy turning complex data into **actionable insights** and building **trustworthy ML**—especially in healthcare, where rigor and clarity truly matter.
+I’m a curious, **pragmatic** data scientist who cares about **impact, clarity, and trust**. I turn messy data into actionable decisions and build **reliable, explainable ML**—especially for healthcare, where stakes are high.
+
+**Principles I work by**
+- **Start simple, prove value, then scale.**
+- **Reproducibility by default:** MLflow/DVC, clear seeds, tidy configs.
+- **Trustworthy models:** calibration, uncertainty, error analysis, model cards.
+- **Earned complexity:** only as complex as the problem requires.
+
+**What I enjoy**
+- Framing problems with crisp success metrics.
+- Shipping end-to-end prototypes (**FastAPI/Streamlit**) and tightening feedback loops.
+- Thoughtful code reviews, lightweight docs, and mentoring.
+
+**Current interests**
+- Conformal prediction & decision-aware evaluation  
+- Geospatial ML for access-to-care  
+- Causal thinking for observational health data
+
 
 ---
 
