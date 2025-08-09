@@ -18,7 +18,7 @@
 
 ## 🚀 Welcome to My GitHub
 
-I’m a results-driven **Data Scientist** with 2+ years of experience in **machine learning, deep learning, and predictive modeling**—with a strong focus on **healthcare analytics**. I design models that ship and matter: from **robust breast-cancer predictors** (≈99% on large datasets) to **time-series anomaly detection** and **electricity price forecasting** pipelines.
+I’m a results-driven **Data Scientist** with 2+ years of experience in **machine learning, deep learning, and predictive modeling** with a strong focus on **healthcare analytics**. I design models that ship and matter: from **robust breast-cancer predictors** (≈99% on large datasets) to **time-series anomaly detection** and **electricity price forecasting** pipelines.
 
 I build scalable, **interpretable** systems using **Python, SQL**, and algorithms like **XGBoost, LightGBM, Random Forest**, with a strong emphasis on **explainability, evaluation, and deployment**. I also hold advanced certifications in **ML, SQL, and Data Science**, plus training in **AI, Big Data, Advanced SQL, and MLOps**.
 
@@ -26,7 +26,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## 🔭 Selected Projects
 <details>
-  <summary><b>🩺 Breast Cancer Predictor (BCP)</b> — ≈99.12% accuracy, interpretable pipeline</summary>
+  <summary><b>🩺 Breast Cancer Predictor (BCP)</b>  ≈99.12% accuracy, interpretable pipeline</summary>
 
 - **Goal:** Reliable early-diagnosis classifier with transparent decisions.
 - **Approach:** Clean preprocessing → strong baselines → tree ensembles (XGBoost/LightGBM) → rigorous CV & calibration.
@@ -237,7 +237,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## ⚡ A Little More About Me
 
-I’m a curious, **pragmatic** data scientist who cares about **impact, clarity, and trust**. I turn messy data into actionable decisions and build **reliable, explainable ML**—especially for healthcare, where stakes are high.
+I’m a curious, **pragmatic** data scientist who cares about **impact, clarity, and trust**. I turn messy data into actionable decisions and build **reliable, explainable ML** especially for healthcare, where stakes are high.
 
 **Principles I work by**
 - **Start simple, prove value, then scale.**
@@ -314,8 +314,22 @@ If you set up lowlighter/metrics (GitHub Action), uncomment this block:
 
 ## 🔗 Useful Links
 
-- **Blog/Community:** https://www.linkedin.com/groups/8165318/  
-- **Resume:** https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg
+<p align="center">
+  <a href="https://www.linkedin.com/groups/8165318/">
+    <img alt="Blog / Community — LinkedIn Group"
+         src="https://img.shields.io/badge/Blog%20%2F%20Community-Join%20the%20discussion-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg">
+    <img alt="Resume (PDF)"
+         src="https://img.shields.io/badge/Resume-View%20PDF-4B5563?logo=readthedocs&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
+<!-- Minimal fallback (plain links)
+- Blog/Community: https://www.linkedin.com/groups/8165318/
+- Resume (PDF): https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg
+-->
+
 
 ---
 
