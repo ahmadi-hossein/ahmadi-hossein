@@ -1,89 +1,133 @@
-👋 Hi there, I'm **Hossein Ahmadi**
+# 👋 Hi there, I'm **Hossein Ahmadi**
 
-👨‍💻 **Data Scientist | Healthcare AI | Skilled in ML, DL, & Medical Imaging for Diagnosis, Prognosis, and Treatment**  
-🌍 **On a mission to Build the future of Healthcare AI**  
-🎯 **Tehran, Iran**
+**👨‍💻 Data Scientist — Healthcare AI**  
+**🧠 ML & DL • Medical Imaging (Diagnosis, Prognosis, Treatment)**  
+**🌍 On a mission to build the future of Healthcare AI**  
+**📍 Tehran, Iran**
 
+<!-- Badges (optional) -->
+<p align="left">
+  <img src="https://img.shields.io/github/followers/ahmadi-hossein?label=Followers&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ahmadi-hossein?affiliations=OWNER%2CCOLLABORATOR&label=Profile%20Stars&logo=github&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ahmadi-hossein&style=for-the-badge" />
+</p>
 
-
-![Image](1723743719283.jpg)
----
-
-### 🚀 **Welcome to My GitHub Profile!**
-
-I am a highly skilled and results-driven **Data Scientist** with over two years of expertise in **Machine Learning, Deep Learning, and predictive modeling**, particularly in **healthcare analytics**. My work is centered around creating impactful, real-world solutions, including developing robust breast cancer prediction models with accuracy scores reaching 99% on large datasets, **anomaly detection frameworks for time series data, and optimizing electricity price forecasting models using machine learning algorithms**.
-
-With deep proficiency in **SQL, Python programming, dynamic feature scaling**, and hands-on experience with algorithms like **XGBoost, LightGBM, and Random Forest**, I excel in building scalable, **interpretable models** tailored to diverse domains. I am highly skilled in translating complex data into **actionable insights**, driving better decision-making, and pushing the boundaries of **healthcare technology** through data science.
-
-I hold advanced certifications in **Machine Learning, SQL, and Data Science**, along with specialized training in **AI, Big Data, Advanced SQL, and MLOps**. My passion lies in harnessing the power of data to contribute to **transformative technological advancements** across fields, continually exploring new techniques to innovate and optimize solutions for **high-impact challenges**.
+![Profile banner](1723743719283.jpg) <!-- Update the image path if needed -->
 
 ---
 
-### 🔭 **Projects That Showcase My Skills**
+## 🚀 Welcome to My GitHub
 
-Here’s a look at some of my notable projects that reflect my strengths in data science, machine learning, and healthcare research:
+I’m a results-driven **Data Scientist** with 2+ years of experience in **machine learning, deep learning, and predictive modeling**—with a strong focus on **healthcare analytics**. I design models that ship and matter: from **robust breast-cancer predictors** (≈99% on large datasets) to **time-series anomaly detection** and **electricity price forecasting** pipelines.
 
-| Projects | Description |
-| ------- | ----------- |
-| <img src="Robust Breast Cancer Predictor (BCP).png" width="30"> **Breast Cancer Predictor (BCP)** | High-accuracy model for breast cancer diagnosis, reaching 99.12% accuracy. |
-| <img src="Anomaly detection in time series.png" width="30"> **Anomaly Detection in Time Series** | Time series anomaly detection with advanced feature engineering. |
-| <img src="EcoOpt.png" width="30"> **EcoOpt** | Optimization model focused on energy efficiency and environmental sustainability. |
-| <img src="Passive Learning.png" width="30"> **Passive Learning in Time Series** | Forecasting model leveraging passive learning for precise predictions. |
-| <img src="Diabetes Prediction.png" width="30"> **Diabetes Prediction** | Comparison of ML algorithms for reliable diabetes diagnosis. |
-| <img src="download.png" width="30"> **Kidney Stone Detection** | YOLOv8-powered AI for accurate kidney stone classification & localization (mAP@0.5 ≈ 99.5%). |
-| <img src="Medical Insurance Cost Predictor.jpg" width="30"> **Medical Insurance Cost Predictor** | Ensemble regression model with R² ≈ 0.997 for premium cost estimation. |
-
-
-Check out my [Kaggle profile](https://www.kaggle.com/ahmadihossein) for more insights into my projects and achievements! 🌟
+I build scalable, **interpretable** systems using **Python, SQL**, and algorithms like **XGBoost, LightGBM, Random Forest**, with a strong emphasis on **explainability, evaluation, and deployment**. I also hold advanced certifications in **ML, SQL, and Data Science**, plus training in **AI, Big Data, Advanced SQL, and MLOps**.
 
 ---
 
-### 🌱 **Currently Mastering**
+## 🔭 Selected Projects
 
-I'm constantly learning and expanding my expertise. Here are some of the areas I'm diving into:
+| Project | What it does |
+| --- | --- |
+| <img src="Robust Breast Cancer Predictor (BCP).png" width="28" /> **Breast Cancer Predictor (BCP)** | High-accuracy breast cancer diagnosis model (≈ 99.12% on dataset). Interpretable pipeline + strong evaluation. |
+| <img src="Anomaly detection in time series.png" width="28" /> **Time-Series Anomaly Detection** | End-to-end anomaly detection with advanced feature engineering and robust thresholds. |
+| <img src="EcoOpt.png" width="28" /> **EcoOpt** | Optimization for energy efficiency & sustainability with ML-assisted decision rules. |
+| <img src="Passive Learning.png" width="28" /> **Passive Learning in Time Series** | Forecasting with passive/online learning for drift-prone signals. |
+| <img src="Diabetes Prediction.png" width="28" /> **Diabetes Prediction** | Rigorous comparison of ML models for reliable diagnosis under class-imbalance constraints. |
+| <img src="download.png" width="28" /> **Kidney Stone Detection** | YOLOv8-based detection & localization (mAP@0.5 ≈ 99.5%) with clean data curation. |
+| <img src="Medical Insurance Cost Predictor.jpg" width="28" /> **Medical Insurance Cost Predictor** | Ensemble regression for premium estimation (R² ≈ 0.997) with feature importance & calibration. |
 
-- **Advanced ML Techniques**: Pushing boundaries with ensemble methods, hyperparameter tuning, and interpretability in healthcare.
-- **Big Data Analytics**: Utilizing **BigQuery ML** to manage and analyze large datasets for predictive modeling.
-- **Geospatial Data Analysis**: Enhancing my skills in location-based data analysis and mapping insights for urban and healthcare sectors.
-
----
-
-### 💬 **Let's Talk About**
-
-I’m always eager to connect with others on topics including:
-
-- **Data Science & Machine Learning**: Techniques, algorithms, and real-world applications.
-- **Healthcare AI**: Innovations in predictive analytics and diagnostics.
-- **Career in Data Science**: Advice on projects, Kaggle, and skill-building.
+> Explore more on my **[Kaggle](https://www.kaggle.com/ahmadihossein)**.
 
 ---
 
-### 📫 **Get in Touch**
+## 🌱 Currently Mastering
 
-I'm open to collaborations, discussions, and new opportunities!  
-💼 LinkedIn: [Hossein Ahmadi](https://www.linkedin.com/in/hossein-ahmadii/)  
-🌐 Kaggle: [Hossein Ahmadi](https://www.kaggle.com/ahmadihossein)
-
----
-
-### ⚡ **A Little More About Me**
-
-Driven by curiosity and a deep commitment to making a difference, I approach every challenge with a problem-solving mindset. From implementing complex algorithms to building intelligent healthcare models, my passion for data science empowers me to make meaningful contributions.
-
-Whether you're interested in collaborating on a project or simply want to connect, feel free to reach out! 😊
+- **Advanced ML**: ensembles, hyperparameter optimization, model interpretability for clinical settings  
+- **Big Data**: **BigQuery ML** for large-scale modeling & analytics  
+- **Geospatial Analytics**: location intelligence for urban & healthcare insights
 
 ---
 
-### 📈 **My GitHub Stats**
+## 💬 Let’s Talk About
 
-![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&theme=radical)
-
----
-
-**🔗 Useful Links**  
-- [Blog](https://www.linkedin.com/groups/8165318/)  
-- [Resume](https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg)  
+- **Data Science & ML** (from problem framing to deployment)  
+- **Healthcare AI** (predictive diagnostics, imaging, model validation)  
+- **Career & Projects** (Kaggle, portfolios, practical roadmaps)
 
 ---
 
-Thanks for visiting my profile! 😊 Let's create innovative solutions together!
+## 📫 Get in Touch
+
+**LinkedIn:** [Hossein Ahmadi](https://www.linkedin.com/in/hossein-ahmadii/)  
+**Kaggle:** [ahmadihossein](https://www.kaggle.com/ahmadihossein)
+
+---
+
+## ⚡ A Little More About Me
+
+Curious, practical, and impact-oriented. I enjoy turning complex data into **actionable insights** and building **trustworthy ML**—especially in healthcare, where rigor and clarity truly matter.
+
+---
+
+## 📈 Advanced GitHub Analytics
+
+> Compact, professional, and collapsible for faster page load. Everything is set to `ahmadi-hossein`.
+
+<details>
+  <summary><b>Core Stats & Streak</b></summary>
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+    <img height="165" src="https://streak-stats.demolab.com?user=ahmadi-hossein&mode=weekly&date_format=j%20M%5B%20Y%5D&theme=radical" alt="GitHub Streak" />
+  </p>
+</details>
+
+<details>
+  <summary><b>Profile Summary & Productive Hours</b></summary>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadi-hossein&theme=github_dark" alt="Profile Details" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadi-hossein&theme=github_dark" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadi-hossein&theme=github_dark" alt="Productive Time" />
+  </p>
+</details>
+
+<details>
+  <summary><b>Languages (by repos, commits & bytes)</b></summary>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadi-hossein&theme=github_dark" alt="Repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadi-hossein&theme=github_dark" alt="Most commit language" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadi-hossein&layout=compact&langs_count=10&hide=html,css&theme=radical" alt="Top Languages by bytes" />
+  </p>
+</details>
+
+<details>
+  <summary><b>Activity Graph & Trophies</b></summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadi-hossein&theme=github-compact&radius=12&hide_border=true" alt="Contribution Activity Graph" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadi-hossein&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
+  </p>
+</details>
+
+<!--
+If you set up lowlighter/metrics (GitHub Action), uncomment this block:
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Comprehensive Profile Metrics" />
+</p>
+-->
+
+---
+
+## 🔗 Useful Links
+
+- **Blog/Community:** https://www.linkedin.com/groups/8165318/  
+- **Resume:** https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg
+
+---
+
+Thanks for visiting! If you’re exploring collaborations in **Healthcare AI** or data-intensive products, I’d love to connect. 🚀
