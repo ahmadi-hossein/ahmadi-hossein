@@ -62,7 +62,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Lightweight online updates, windowed retraining, decay on stale signals.
 - **Highlights:** Drift monitoring hooks, ablation on update frequency, latency-friendly code.
 - **Stack:** Python, scikit-learn, statsmodels.
-- **Repo:** [https://github.com/ahmadi-hossein/Passive-Learning-For-Time-Series-Forecasting(https://github.com/ahmadi-hossein/Passive-Learning-For-Time-Series-Forecasting)
+- **Repo:** [https://github.com/ahmadi-hossein/Passive-Learning-For-Time-Series-Forecasting](https://github.com/ahmadi-hossein/Passive-Learning-For-Time-Series-Forecasting)
 
 </details>
 
@@ -73,7 +73,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Stratified CV, calibration curves, threshold tuning by clinical cost.
 - **Highlights:** Clear model card (assumptions/limits), feature importance, reproducible pipeline.
 - **Stack:** Python, scikit-learn, Imbalanced-Learn.
-- **Repo:** [https://github.com/ahmadi-hossein/Comparison-of-ML-Algorithms-Diabetes-Prediction(https://github.com/ahmadi-hossein/Comparison-of-ML-Algorithms-Diabetes-Prediction)
+- **Repo:** [https://github.com/ahmadi-hossein/Comparison-of-ML-Algorithms-Diabetes-Prediction](https://github.com/ahmadi-hossein/Comparison-of-ML-Algorithms-Diabetes-Prediction)
 
 </details>
 
@@ -84,7 +84,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** YOLOv8 training with curated labels, augmentations, and validation protocol.
 - **Highlights:** High mAP@0.5, inference script, notebook demo, exportable weights.
 - **Stack:** Python, PyTorch, Ultralytics YOLOv8, OpenCV.
-- **Repo:** [https://github.com/ahmadi-hossein/KidneyStone(https://github.com/ahmadi-hossein/KidneyStone)
+- **Repo:** [https://github.com/ahmadi-hossein/KidneyStone](https://github.com/ahmadi-hossein/KidneyStone)
 
 </details>
 
