@@ -18,9 +18,9 @@
 
 ## 🚀 Welcome to My GitHub
 
-I’m a results-driven **Data Scientist** with 2+ years of experience in **machine learning, deep learning, and predictive modeling** with a strong focus on **healthcare analytics**. I design models that ship and matter: from **robust breast-cancer predictors** (≈99% on large datasets) to **time-series anomaly detection** and **electricity price forecasting** pipelines.
+Data Scientist (2+ yrs) focused on **Healthcare AI**. I build **interpretable** models that ship: breast-cancer prediction (~99%), time-series anomaly detection, and electricity-price forecasting.  
+Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation and deployment.
 
-I build scalable, **interpretable** systems using **Python, SQL**, and algorithms like **XGBoost, LightGBM, Random Forest**, with a strong emphasis on **explainability, evaluation, and deployment**. I also hold advanced certifications in **ML, SQL, and Data Science**, plus training in **AI, Big Data, Advanced SQL, and MLOps**.
 
 ---
 
@@ -98,82 +98,17 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Repo:** [https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor](https://github.com/ahmadi-hossein/Medical-Insurance)
 </details>
 
-<!-- Quick visual cards (use exact repo slugs) -->
-<p align="center">
-  <a href="https://github.com/ahmadi-hossein/Robust-Breast-Cancer-Predictor-BCP-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Robust-Breast-Cancer-Predictor-BCP-&theme=radical" alt="Robust Breast Cancer Predictor (BCP)" />
-  </a>
-  <a href="https://github.com/ahmadi-hossein/Anomaly-detection-in-time-series">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Anomaly-detection-in-time-series&theme=radical" alt="Time-Series Anomaly Detection" />
-  </a>
-  <a href="https://github.com/ahmadi-hossein/EcoOpt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=EcoOpt&theme=radical" alt="EcoOpt" />
-  </a>
-  <a href="https://github.com/ahmadi-hossein/Medical-Insurance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Medical-Insurance&theme=radical" alt="Medical Insurance Cost Predictor" />
-  </a>
-</p>
-
 
 > Explore more on my **[Kaggle](https://www.kaggle.com/ahmadihossein)**.
 
 ---
 
 ## 🌱 Currently Mastering
+- **Advanced ML for clinical use:** ensembles, Optuna HPO, calibration & uncertainty, drift monitoring, SHAP.
+- **MLOps:** MLflow + Hydra, DVC, FastAPI, Docker.
+- **Big Data:** BigQuery ML, dbt, Airflow/Composer, Feast (feature store).
+- **Geo Analytics:** GeoPandas, PostGIS, H3; access-to-care & facility planning.
 
-> Focused, outcome-driven learning tracks aligned with Healthcare AI. Kept compact; details are collapsible.
-
-### 1) Advanced ML for Clinical Settings
-- **Ensembles & Robustness:** stacking/blending, **CatBoost/LightGBM/XGBoost**, out-of-fold training, leakage control.
-- **Hyperparameter Optimization:** **Optuna** (TPE, pruning), distributed trials, search-space design.
-- **Calibration & Uncertainty:** Platt/Isotonic, **conformal prediction** (intervals), decision thresholds by clinical cost.
-- **Shift & Monitoring:** drift metrics (PSI/KS), change-point checks, **Evidently** dashboards, error analysis playbooks.
-- **Interpretability:** **SHAP**, PDP/ICE, counterfactuals; model cards & limitation notes.
-- **MLOps Glue:** **MLflow** tracking + **Hydra** configs, **DVC** data versioning, **FastAPI** serving, **Docker** packaging.
-- **Outcome:** safer predictions with audited explainability and production-ready pipelines.
-
-<details>
-<summary>Examples & checklists</summary>
-
-- [ ] Nested CV for small datasets with stratification  
-- [ ] Cost-sensitive thresholds + decision curve analysis  
-- [ ] Confidence/credibility intervals via conformal prediction  
-- [ ] Offline → online parity tests before deploy
-</details>
-
----
-
-### 2) Big Data & Scalable Analytics
-- **BigQuery ML:** feature views, partition/cluster strategy, ML on SQL (linear/logistic, boosted trees, ARIMA+, XGBoost).
-- **Pipeline Ops:** **dbt** for transformations, **Airflow/Cloud Composer** scheduling, **Feast** (feature store).
-- **Streaming & Batch:** Pub/Sub or Kafka → BigQuery; windowed aggregations; cost/perf tuning.
-- **Analytics & Viz:** Looker Studio dashboards; data quality with Great Expectations (optional).
-- **Outcome:** reproducible, cost-aware pipelines that serve features/models at scale.
-
-<details>
-<summary>Examples & checklists</summary>
-
-- [ ] Train + evaluate in BigQuery ML, register model artifact  
-- [ ] dbt tests (unique/not null/accepted values) for critical dims  
-- [ ] Feature store: online/offline consistency contract
-</details>
-
----
-
-### 3) Geospatial Analytics for Health & Urban Insights
-- **Core Stack:** **GeoPandas**, **Shapely**, **PySAL**, **PostGIS**, **H3** indexing.
-- **Spatial Methods:** joins & buffers, drive-time isochrones, spatial autocorrelation (Moran’s I), hotspot detection.
-- **Raster/Vector:** `rasterio` & `rio-cogeo` basics; resampling and CRS handling.
-- **Visualization:** **Kepler.gl** / **Folium** interactive maps; tiles & basemaps; choropleths with classification schemes.
-- **Outcome:** location-aware risk models (e.g., access to care, facility placement, screening coverage).
-
-<details>
-<summary>Examples & checklists</summary>
-
-- [ ] Build clinic catchment areas via isochrones & H3 bins  
-- [ ] Demand–supply gap map with spatial smoothing  
-- [ ] Validate CRS & topology; benchmark spatial joins on large tiles
-</details>
 
 
 ---
@@ -236,79 +171,23 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 ---
 
 ## ⚡ A Little More About Me
+Pragmatic, impact-driven, and big on **trust**. I like turning messy data into decisions and shipping **reliable, explainable ML**—especially in healthcare.
 
-I’m a curious, **pragmatic** data scientist who cares about **impact, clarity, and trust**. I turn messy data into actionable decisions and build **reliable, explainable ML** especially for healthcare, where stakes are high.
+**Principles:** Start simple → prove value → scale • Reproducibility by default • Earned complexity only.
 
-**Principles I work by**
-- **Start simple, prove value, then scale.**
-- **Reproducibility by default:** MLflow/DVC, clear seeds, tidy configs.
-- **Trustworthy models:** calibration, uncertainty, error analysis, model cards.
-- **Earned complexity:** only as complex as the problem requires.
-
-**What I enjoy**
-- Framing problems with crisp success metrics.
-- Shipping end-to-end prototypes (**FastAPI/Streamlit**) and tightening feedback loops.
-- Thoughtful code reviews, lightweight docs, and mentoring.
-
-**Current interests**
-- Conformal prediction & decision-aware evaluation  
-- Geospatial ML for access-to-care  
-- Causal thinking for observational health data
 
 
 ---
 
-## 📈 Advanced GitHub Analytics
-
-> Compact, professional, and collapsible for faster page load. Everything is set to `ahmadi-hossein`.
-
-<details>
-  <summary><b>Core Stats & Streak</b></summary>
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-    <img height="165" src="https://streak-stats.demolab.com?user=ahmadi-hossein&mode=weekly&date_format=j%20M%5B%20Y%5D&theme=radical" alt="GitHub Streak" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Profile Summary & Productive Hours</b></summary>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadi-hossein&theme=github_dark" alt="Profile Details" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadi-hossein&theme=github_dark" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadi-hossein&theme=github_dark" alt="Productive Time" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Languages (by repos, commits & bytes)</b></summary>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadi-hossein&theme=github_dark" alt="Repos per language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadi-hossein&theme=github_dark" alt="Most commit language" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadi-hossein&layout=compact&langs_count=10&hide=html,css&theme=radical" alt="Top Languages by bytes" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Activity Graph & Trophies</b></summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadi-hossein&theme=github-compact&radius=12&hide_border=true" alt="Contribution Activity Graph" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadi-hossein&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
-  </p>
-</details>
-
-<!--
-If you set up lowlighter/metrics (GitHub Action), uncomment this block:
-
+## 📈 GitHub Analytics
 <p align="center">
-  <img src="./github-metrics.svg" alt="Comprehensive Profile Metrics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ahmadi-hossein&mode=weekly&theme=radical" />
 </p>
--->
+<!-- Optional: keep one of the two below, not both -->
+<!-- <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadi-hossein&theme=github_dark" /></p> -->
+<!-- <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadi-hossein&theme=github-compact&radius=12&hide_border=true" /></p> -->
+
 
 ---
 
