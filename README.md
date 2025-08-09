@@ -35,7 +35,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Clean preprocessing → strong baselines → tree ensembles (XGBoost/LightGBM) → rigorous CV & calibration.
 - **Highlights:** SHAP-based explanations, error analysis, class-imbalance handling.
 - **Stack:** Python, scikit-learn, XGBoost, LightGBM, Pandas, Matplotlib.
-- **Repo:** https://github.com/ahmadi-hossein/Breast-Cancer-Predictor
+- **Repo:** [https://github.com/ahmadi-hossein/Breast-Cancer-Predictor](https://github.com/ahmadi-hossein/Robust-Breast-Cancer-Predictor-BCP-)
 </details>
 
 <details>
