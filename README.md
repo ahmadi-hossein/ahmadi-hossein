@@ -25,9 +25,6 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 ---
 
 ## 🔭 Selected Projects
-
-> Impact-focused highlights with clear results. (Update repo links if your slugs differ.)
-
 <details>
   <summary><b>🩺 Breast Cancer Predictor (BCP)</b> — ≈99.12% accuracy, interpretable pipeline</summary>
 
@@ -45,7 +42,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Advanced feature engineering (seasonality/trend, rolling stats), change-point checks, thresholding.
 - **Highlights:** Precision/recall trade-offs per segment, alert ranking, reproducible evaluation.
 - **Stack:** Python, NumPy/Pandas, statsmodels, scikit-learn.
-- **Repo:** https://github.com/ahmadi-hossein/TimeSeries-Anomaly-Detection
+- **Repo:** [https://github.com/ahmadi-hossein/TimeSeries-Anomaly-Detection](https://github.com/ahmadi-hossein/Anomaly-detection-in-time-series)
 </details>
 
 <details>
@@ -55,7 +52,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Predictive modeling + heuristic/optimization loop for setting recommendations.
 - **Highlights:** Scenario analysis, KPI dashboard, plug-and-play config.
 - **Stack:** Python, scikit-learn, (optional) OR-tools / Pyomo, Plotly.
-- **Repo:** https://github.com/ahmadi-hossein/EcoOpt
+- **Repo:** [https://github.com/ahmadi-hossein/EcoOpt](https://github.com/ahmadi-hossein/EcoOpt)
 </details>
 
 <details>
@@ -65,6 +62,8 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Lightweight online updates, windowed retraining, decay on stale signals.
 - **Highlights:** Drift monitoring hooks, ablation on update frequency, latency-friendly code.
 - **Stack:** Python, scikit-learn, statsmodels.
+- **Repo:** [https://github.com/ahmadi-hossein/Passive-Learning-For-Time-Series-Forecasting(https://github.com/ahmadi-hossein/Passive-Learning-For-Time-Series-Forecasting)
+
 </details>
 
 <details>
@@ -74,6 +73,8 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Stratified CV, calibration curves, threshold tuning by clinical cost.
 - **Highlights:** Clear model card (assumptions/limits), feature importance, reproducible pipeline.
 - **Stack:** Python, scikit-learn, Imbalanced-Learn.
+- **Repo:** [https://github.com/ahmadi-hossein/Comparison-of-ML-Algorithms-Diabetes-Prediction(https://github.com/ahmadi-hossein/Comparison-of-ML-Algorithms-Diabetes-Prediction)
+
 </details>
 
 <details>
@@ -83,6 +84,8 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** YOLOv8 training with curated labels, augmentations, and validation protocol.
 - **Highlights:** High mAP@0.5, inference script, notebook demo, exportable weights.
 - **Stack:** Python, PyTorch, Ultralytics YOLOv8, OpenCV.
+- **Repo:** [https://github.com/ahmadi-hossein/KidneyStone(https://github.com/ahmadi-hossein/KidneyStone)
+
 </details>
 
 <details>
@@ -92,7 +95,7 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Approach:** Ensemble models + feature engineering; hold-out + k-fold evaluation.
 - **Highlights:** Feature importance, partial-dependence/ICE plots, simple API for scoring.
 - **Stack:** Python, scikit-learn, XGBoost, FastAPI (optional).
-- **Repo:** https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor
+- **Repo:** [https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor](https://github.com/ahmadi-hossein/Medical-Insurance)
 </details>
 
 <!-- Optional: quick visual cards for a few key repos -->
