@@ -191,25 +191,5 @@ Pragmatic, impact-driven, and big on **trust**. I like turning messy data into d
 
 ---
 
-## 🔗 Useful Links
-
-<p align="center">
-  <a href="https://www.linkedin.com/groups/8165318/">
-    <img alt="Blog / Community — LinkedIn Group"
-         src="https://img.shields.io/badge/Blog%20%2F%20Community-Join%20the%20discussion-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg">
-    <img alt="Resume (PDF)"
-         src="https://img.shields.io/badge/Resume-View%20PDF-4B5563?logo=readthedocs&logoColor=white&style=for-the-badge">
-  </a>
-</p>
-
-<!-- Minimal fallback (plain links)
-- Blog/Community: https://www.linkedin.com/groups/8165318/
-- Resume (PDF): https://www.linkedin.com/in/hossein-ahmadii/overlay/1724718739553/single-media-viewer/?type=DOCUMENT&profileId=ACoAADDOWDkBIkpA23E6RdF2inMvboSY5jD2OKg
--->
-
-
----
 
 Thanks for visiting! If you’re exploring collaborations in **Healthcare AI** or data-intensive products, I’d love to connect. 🚀
