@@ -98,19 +98,19 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 - **Repo:** [https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor](https://github.com/ahmadi-hossein/Medical-Insurance)
 </details>
 
-<!-- Optional: quick visual cards for a few key repos -->
+<!-- Quick visual cards (use exact repo slugs) -->
 <p align="center">
-  <a href="https://github.com/ahmadi-hossein/Breast-Cancer-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Breast-Cancer-Predictor&theme=radical" />
+  <a href="https://github.com/ahmadi-hossein/Robust-Breast-Cancer-Predictor-BCP-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Robust-Breast-Cancer-Predictor-BCP-&theme=radical" alt="Robust Breast Cancer Predictor (BCP)" />
   </a>
-  <a href="https://github.com/ahmadi-hossein/TimeSeries-Anomaly-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=TimeSeries-Anomaly-Detection&theme=radical" />
+  <a href="https://github.com/ahmadi-hossein/Anomaly-detection-in-time-series">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Anomaly-detection-in-time-series&theme=radical" alt="Time-Series Anomaly Detection" />
   </a>
   <a href="https://github.com/ahmadi-hossein/EcoOpt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=EcoOpt&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=EcoOpt&theme=radical" alt="EcoOpt" />
   </a>
-  <a href="https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Medical-Insurance-Cost-Predictor&theme=radical" />
+  <a href="https://github.com/ahmadi-hossein/Medical-Insurance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Medical-Insurance&theme=radical" alt="Medical Insurance Cost Predictor" />
   </a>
 </p>
 
