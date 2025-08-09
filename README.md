@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Hossein Ahmadi**
 
-**👨‍💻 Data Scientist — Healthcare AI**  
+**👨‍💻 Data Scientist - Healthcare AI**  
 **🧠 ML & DL • Medical Imaging (Diagnosis, Prognosis, Treatment)**  
 **🌍 On a mission to build the future of Healthcare AI**  
 **📍 Tehran, Iran**
@@ -19,7 +19,7 @@
 ## 🚀 Welcome to My GitHub
 
 Data Scientist (2+ yrs) focused on **Healthcare AI**. I build **interpretable** models that ship: breast-cancer prediction (~99%), time-series anomaly detection, and electricity-price forecasting.  
-Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation and deployment.
+Tooling: **Python, SQL, XGBoost/LightGBM/RF** delivery with solid evaluation and deployment.
 
 
 ---
@@ -36,7 +36,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 </details>
 
 <details>
-  <summary><b>📉 Time-Series Anomaly Detection</b> — robust thresholds + drift-aware features</summary>
+  <summary><b>📉 Time-Series Anomaly Detection</b> - robust thresholds + drift-aware features</summary>
 
 - **Goal:** Detect outliers in operational time series with low false alarms.
 - **Approach:** Advanced feature engineering (seasonality/trend, rolling stats), change-point checks, thresholding.
@@ -46,7 +46,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 </details>
 
 <details>
-  <summary><b>⚡ EcoOpt</b> — ML-assisted optimization for energy efficiency</summary>
+  <summary><b>⚡ EcoOpt</b> - ML-assisted optimization for energy efficiency</summary>
 
 - **Goal:** Reduce energy cost & footprint under operational constraints.
 - **Approach:** Predictive modeling + heuristic/optimization loop for setting recommendations.
@@ -56,7 +56,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 </details>
 
 <details>
-  <summary><b>🔮 Passive / Online Learning for Time Series</b> — forecasting under drift</summary>
+  <summary><b>🔮 Passive / Online Learning for Time Series</b> - forecasting under drift</summary>
 
 - **Goal:** Keep forecasts stable when data distribution shifts.
 - **Approach:** Lightweight online updates, windowed retraining, decay on stale signals.
@@ -67,7 +67,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 </details>
 
 <details>
-  <summary><b>🩸 Diabetes Prediction</b> — fair & reliable classification</summary>
+  <summary><b>🩸 Diabetes Prediction</b> - fair & reliable classification</summary>
 
 - **Goal:** Compare ML models for diabetes diagnosis with class-imbalance care.
 - **Approach:** Stratified CV, calibration curves, threshold tuning by clinical cost.
@@ -78,7 +78,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 </details>
 
 <details>
-  <summary><b>🪨 Kidney Stone Detection (YOLOv8)</b> — mAP@0.5 ≈ 99.5%</summary>
+  <summary><b>🪨 Kidney Stone Detection (YOLOv8)</b> - mAP@0.5 ≈ 99.5%</summary>
 
 - **Goal:** Accurate detection & localization in medical imaging.
 - **Approach:** YOLOv8 training with curated labels, augmentations, and validation protocol.
@@ -89,7 +89,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 </details>
 
 <details>
-  <summary><b>💳 Medical Insurance Cost Predictor</b> — ensemble regression (R² ≈ 0.997)</summary>
+  <summary><b>💳 Medical Insurance Cost Predictor</b> - ensemble regression (R² ≈ 0.997)</summary>
 
 - **Goal:** Predict premium costs with calibrated uncertainty.
 - **Approach:** Ensemble models + feature engineering; hold-out + k-fold evaluation.
@@ -171,7 +171,7 @@ Tooling: **Python, SQL, XGBoost/LightGBM/RF** — delivery with solid evaluation
 ---
 
 ## ⚡ A Little More About Me
-Pragmatic, impact-driven, and big on **trust**. I like turning messy data into decisions and shipping **reliable, explainable ML**—especially in healthcare.
+Pragmatic, impact-driven, and big on **trust**. I like turning messy data into decisions and shipping **reliable, explainable ML** especially in healthcare.
 
 **Principles:** Start simple → prove value → scale • Reproducibility by default • Earned complexity only.
 
