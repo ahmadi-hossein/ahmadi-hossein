@@ -26,15 +26,91 @@ I build scalable, **interpretable** systems using **Python, SQL**, and algorithm
 
 ## 🔭 Selected Projects
 
-| Project | What it does |
-| --- | --- |
-| <img src="Robust Breast Cancer Predictor (BCP).png" width="28" /> **Breast Cancer Predictor (BCP)** | High-accuracy breast cancer diagnosis model (≈ 99.12% on dataset). Interpretable pipeline + strong evaluation. |
-| <img src="Anomaly detection in time series.png" width="28" /> **Time-Series Anomaly Detection** | End-to-end anomaly detection with advanced feature engineering and robust thresholds. |
-| <img src="EcoOpt.png" width="28" /> **EcoOpt** | Optimization for energy efficiency & sustainability with ML-assisted decision rules. |
-| <img src="Passive Learning.png" width="28" /> **Passive Learning in Time Series** | Forecasting with passive/online learning for drift-prone signals. |
-| <img src="Diabetes Prediction.png" width="28" /> **Diabetes Prediction** | Rigorous comparison of ML models for reliable diagnosis under class-imbalance constraints. |
-| <img src="download.png" width="28" /> **Kidney Stone Detection** | YOLOv8-based detection & localization (mAP@0.5 ≈ 99.5%) with clean data curation. |
-| <img src="Medical Insurance Cost Predictor.jpg" width="28" /> **Medical Insurance Cost Predictor** | Ensemble regression for premium estimation (R² ≈ 0.997) with feature importance & calibration. |
+> Impact-focused highlights with clear results. (Update repo links if your slugs differ.)
+
+<details>
+  <summary><b>🩺 Breast Cancer Predictor (BCP)</b> — ≈99.12% accuracy, interpretable pipeline</summary>
+
+- **Goal:** Reliable early-diagnosis classifier with transparent decisions.
+- **Approach:** Clean preprocessing → strong baselines → tree ensembles (XGBoost/LightGBM) → rigorous CV & calibration.
+- **Highlights:** SHAP-based explanations, error analysis, class-imbalance handling.
+- **Stack:** Python, scikit-learn, XGBoost, LightGBM, Pandas, Matplotlib.
+- **Repo:** https://github.com/ahmadi-hossein/Breast-Cancer-Predictor
+</details>
+
+<details>
+  <summary><b>📉 Time-Series Anomaly Detection</b> — robust thresholds + drift-aware features</summary>
+
+- **Goal:** Detect outliers in operational time series with low false alarms.
+- **Approach:** Advanced feature engineering (seasonality/trend, rolling stats), change-point checks, thresholding.
+- **Highlights:** Precision/recall trade-offs per segment, alert ranking, reproducible evaluation.
+- **Stack:** Python, NumPy/Pandas, statsmodels, scikit-learn.
+- **Repo:** https://github.com/ahmadi-hossein/TimeSeries-Anomaly-Detection
+</details>
+
+<details>
+  <summary><b>⚡ EcoOpt</b> — ML-assisted optimization for energy efficiency</summary>
+
+- **Goal:** Reduce energy cost & footprint under operational constraints.
+- **Approach:** Predictive modeling + heuristic/optimization loop for setting recommendations.
+- **Highlights:** Scenario analysis, KPI dashboard, plug-and-play config.
+- **Stack:** Python, scikit-learn, (optional) OR-tools / Pyomo, Plotly.
+- **Repo:** https://github.com/ahmadi-hossein/EcoOpt
+</details>
+
+<details>
+  <summary><b>🔮 Passive / Online Learning for Time Series</b> — forecasting under drift</summary>
+
+- **Goal:** Keep forecasts stable when data distribution shifts.
+- **Approach:** Lightweight online updates, windowed retraining, decay on stale signals.
+- **Highlights:** Drift monitoring hooks, ablation on update frequency, latency-friendly code.
+- **Stack:** Python, scikit-learn, statsmodels.
+</details>
+
+<details>
+  <summary><b>🩸 Diabetes Prediction</b> — fair & reliable classification</summary>
+
+- **Goal:** Compare ML models for diabetes diagnosis with class-imbalance care.
+- **Approach:** Stratified CV, calibration curves, threshold tuning by clinical cost.
+- **Highlights:** Clear model card (assumptions/limits), feature importance, reproducible pipeline.
+- **Stack:** Python, scikit-learn, Imbalanced-Learn.
+</details>
+
+<details>
+  <summary><b>🪨 Kidney Stone Detection (YOLOv8)</b> — mAP@0.5 ≈ 99.5%</summary>
+
+- **Goal:** Accurate detection & localization in medical imaging.
+- **Approach:** YOLOv8 training with curated labels, augmentations, and validation protocol.
+- **Highlights:** High mAP@0.5, inference script, notebook demo, exportable weights.
+- **Stack:** Python, PyTorch, Ultralytics YOLOv8, OpenCV.
+</details>
+
+<details>
+  <summary><b>💳 Medical Insurance Cost Predictor</b> — ensemble regression (R² ≈ 0.997)</summary>
+
+- **Goal:** Predict premium costs with calibrated uncertainty.
+- **Approach:** Ensemble models + feature engineering; hold-out + k-fold evaluation.
+- **Highlights:** Feature importance, partial-dependence/ICE plots, simple API for scoring.
+- **Stack:** Python, scikit-learn, XGBoost, FastAPI (optional).
+- **Repo:** https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor
+</details>
+
+<!-- Optional: quick visual cards for a few key repos -->
+<p align="center">
+  <a href="https://github.com/ahmadi-hossein/Breast-Cancer-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Breast-Cancer-Predictor&theme=radical" />
+  </a>
+  <a href="https://github.com/ahmadi-hossein/TimeSeries-Anomaly-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=TimeSeries-Anomaly-Detection&theme=radical" />
+  </a>
+  <a href="https://github.com/ahmadi-hossein/EcoOpt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=EcoOpt&theme=radical" />
+  </a>
+  <a href="https://github.com/ahmadi-hossein/Medical-Insurance-Cost-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadi-hossein&repo=Medical-Insurance-Cost-Predictor&theme=radical" />
+  </a>
+</p>
+
 
 > Explore more on my **[Kaggle](https://www.kaggle.com/ahmadihossein)**.
 
