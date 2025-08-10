@@ -18,7 +18,7 @@
 
 ## 🚀 Welcome to My GitHub
 
-Data Scientist (2+ yrs) focused on **Healthcare AI**. I build **interpretable** models that ship: breast-cancer prediction (~99%), time-series anomaly detection, and electricity-price forecasting.  
+Data Scientist (4+ yrs) focused on **Healthcare AI**. I build **interpretable** models that ship: breast-cancer prediction (~99%), time-series anomaly detection, and electricity-price forecasting.  
 Tooling: **Python, SQL, XGBoost/LightGBM/RF** delivery with solid evaluation and deployment.
 
 
