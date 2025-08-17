@@ -181,7 +181,7 @@ Pragmatic, impact-driven, and big on **trust**. I like turning messy data into d
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadi-hossein&show_icons=true&rank_icon=github&theme=radical" />
   <img height="165" src="https://streak-stats.demolab.com?user=ahmadi-hossein&mode=weekly&theme=radical" />
 </p>
 <!-- Optional: keep one of the two below, not both -->
