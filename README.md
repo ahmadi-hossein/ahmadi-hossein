@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Hossein Ahmadi**
 
 **👨‍💻 Data Scientist - Healthcare AI**  
-**🧠 Multimodal ML & DL for Medical Imaging, Diagnosis, Prognosis and Treatment**  
+**🧠 LLMs & RAG | Multimodal ML & DL for Medical Imaging, Diagnosis, Prognosis and Treatment**  
 **🌍 On a mission to build the future of Healthcare AI**  
 **📍 Tehran, Iran**
 
