@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Hossein Ahmadi**
 
 **👨‍💻 Data Scientist - Healthcare AI**  
-**🧠 LLMs & RAG | Multimodal ML & DL for Medical Imaging, Diagnosis, Prognosis and Treatment**  
+**🧠 LLMs/RAG | Multimodal ML/DL (Diag, Prog, Treat) | MedImaging (MONAI/DICOM, PACS, ITK, Slicer, U-Net, CUDA) | ClinNLP(EHR/Rad, Auto-Sum) | MLOps (Docker/FastAPI, HIPAA-C) | XAI | VecDbs**  
 **🌍 On a mission to build the future of Healthcare AI**  
 **📍 Tehran, Iran**
 
