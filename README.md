@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Hossein Ahmadi**
 
 **👨‍💻 Data Scientist ll - Healthcare AI**  
-**🧠 I help teams deploy LLMs/RAG & multimodal models for Dx/Px/Tx, plus med imaging & clinical NLP, with HIPAA-ready MLOps and XAI**  
+**🧠 I help teams deploy LLMs/RAG & multimodal models for Dx/Px/Tx, plus MedImaging & clinical NLP, with HIPAA-ready MLOps and XAI**  
 **🌍 On a mission to build the future of Healthcare AI**  
 **📍 Tehran, Iran**
 
