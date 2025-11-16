@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Hossein Ahmadi**
 
-**👨‍💻 Data Scientist ll | Healthcare AI**  
-**🧠 HIPAA-Compliant LLMs, RAG & Multimodal Models for Diagnostics, Prognosis & Treatment | Medical Imaging & Clinical NLP | MLOps & Explainable AI**  
+**👨‍💻 Data Scientist**  
+**🧠 HIPAA-Compliant LLMs for Precision Diagnostics & Treatment**  
 **🌍 On a mission to build the future of Healthcare AI**  
 **📍 Tehran, Iran**
 
