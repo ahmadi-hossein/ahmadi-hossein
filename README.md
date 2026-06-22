@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmadi-hossein&style=for-the-badge" />
 </p>
 
-![Profile banner](1723743719283.jpg) <!-- Update the image path if needed -->
+![Profile banner](cb183d2e-e4b6-4759-acc2-47efbdec82ea.png) <!-- Update the image path if needed -->
 
 ---
 
