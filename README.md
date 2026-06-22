@@ -71,16 +71,16 @@ Experienced in building **reliable, explainable, and deployable ML systems** acr
 ## 🎓 Education
 
 **B.Sc. Computer Engineering / Software Engineering**  
-GPA: **3.97 / 4.00** — Top Academic Performance
+GPA: **3.97 / 4.00** - Top Academic Performance
 
 ---
 
 ## 📜 Certifications
 
-- AI for Medicine Specialization (Diagnosis, Prognosis, Treatment) — DeepLearning.AI (2025)
-- Machine Learning Explainability — Kaggle (2024)
-- Advanced SQL & Data Engineering — 365 Data Science (2024)
-- Statistical Methods & Inference — Eindhoven University of Technology (2024)
+- AI for Medicine Specialization (Diagnosis, Prognosis, Treatment) - DeepLearning.AI (2025)
+- Machine Learning Explainability - Kaggle (2024)
+- Advanced SQL & Data Engineering - 365 Data Science (2024)
+- Statistical Methods & Inference - Eindhoven University of Technology (2024)
 
 ---
 
