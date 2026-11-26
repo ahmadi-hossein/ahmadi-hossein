@@ -42,7 +42,7 @@ Built from a real audit of a public ultrasound kidney-stone dataset (9,416 image
 
 - **Machine Learning, TestDome Gold Certificate** - ranked in the top 10% of candidates (Nov 2026). [Verify](https://www.testdome.com/certificates/c25d62b3517344619a47d76263974b29)
 - **AI for Medicine Specialization**, DeepLearning.AI (2025): Medical Diagnosis, Medical Prognosis, Medical Treatment
-- **Kaggle Notebooks Master** - 23 public notebooks, 3 gold, 11 silver and 3 bronze medals
+- **Kaggle Notebooks Master** - 20 public notebooks, 3 gold, 11 silver and 3 bronze medals
 - **Member**, National AI Association of Iran
 
 ## Education
